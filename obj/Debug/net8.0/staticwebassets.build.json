@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NgaCWUrDtri9md04D2fA+YUbk3zGf+h3ROidNm0q3Jg=",
+  "Source": "SecureHubApi",
+  "BasePath": "_content/SecureHubApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
